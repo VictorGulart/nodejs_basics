@@ -1,0 +1,19 @@
+{
+  "name": "io",
+  "version": "1.0.0",
+  "description": "Node IO crash course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev" : "nodemon index"
+  },
+  "author": "Victor Gulart",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
